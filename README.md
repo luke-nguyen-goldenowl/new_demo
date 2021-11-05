@@ -33,33 +33,22 @@
 
 # Folder_Structure
 
-## Assets_folder
-1. fonts *
-2. html
-3. i18n
-4. images
-
 ## Config_folder
 1. routes *
-2. themes *
+- Screens navigation.
 
 ## Constants_folder *
+- Present application constants.
 
 ## Custom_Widget_folder *
+- Customized widgets.
 
-## Utils_folder
-1. Helpers
-2. Services
-3. Utils *
-4. Mixins
-
-## Core_Feature_folder
-1. auth
-2. walk_through
-3. settings
+## Utils_folder *
+- Custom UI widgets.
 
 ## Modules_folder
-1. bloc
-2. models *
-3. repositories
-4. screen *
+1. models *
+- Contains the data models.
+
+2. screen *
+- Consists of all the screens UI widget
