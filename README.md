@@ -43,10 +43,7 @@
 1. routes *
 2. themes *
 
-## Constants_folder
-- api_path.dart
-- assets_path.dart *
-- app_constants.dart *
+## Constants_folder *
 
 ## Custom_Widget_folder *
 
