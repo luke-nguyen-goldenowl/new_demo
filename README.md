@@ -37,18 +37,18 @@
 1. routes *
 - Screens navigation.
 
-## Constants_folder *
+## Constants_folder
 - Present application constants.
 
-## Custom_Widget_folder *
+## Custom_Widget_folder
 - Customized widgets.
 
-## Utils_folder *
+## Utils_folder
 - Custom UI widgets.
 
 ## Modules_folder
-1. models *
+1. models
 - Contains the data models.
 
-2. screen *
+2. screen
 - Consists of all the screens UI widget
